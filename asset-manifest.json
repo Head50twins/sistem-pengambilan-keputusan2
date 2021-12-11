@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/sistem-pengambilan-keputusan2/static/css/main.4e6d9806.chunk.css",
+    "main.js": "/sistem-pengambilan-keputusan2/static/js/main.a63facc2.chunk.js",
+    "main.js.map": "/sistem-pengambilan-keputusan2/static/js/main.a63facc2.chunk.js.map",
+    "runtime-main.js": "/sistem-pengambilan-keputusan2/static/js/runtime-main.89108739.js",
+    "runtime-main.js.map": "/sistem-pengambilan-keputusan2/static/js/runtime-main.89108739.js.map",
+    "static/js/2.9b1fc20a.chunk.js": "/sistem-pengambilan-keputusan2/static/js/2.9b1fc20a.chunk.js",
+    "static/js/2.9b1fc20a.chunk.js.map": "/sistem-pengambilan-keputusan2/static/js/2.9b1fc20a.chunk.js.map",
+    "static/js/3.35c27bd7.chunk.js": "/sistem-pengambilan-keputusan2/static/js/3.35c27bd7.chunk.js",
+    "static/js/3.35c27bd7.chunk.js.map": "/sistem-pengambilan-keputusan2/static/js/3.35c27bd7.chunk.js.map",
+    "index.html": "/sistem-pengambilan-keputusan2/index.html",
+    "static/css/main.4e6d9806.chunk.css.map": "/sistem-pengambilan-keputusan2/static/css/main.4e6d9806.chunk.css.map",
+    "static/js/2.9b1fc20a.chunk.js.LICENSE.txt": "/sistem-pengambilan-keputusan2/static/js/2.9b1fc20a.chunk.js.LICENSE.txt",
+    "static/media/analytics.979df364.svg": "/sistem-pengambilan-keputusan2/static/media/analytics.979df364.svg",
+    "static/media/logo.60623ab4.png": "/sistem-pengambilan-keputusan2/static/media/logo.60623ab4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89108739.js",
+    "static/js/2.9b1fc20a.chunk.js",
+    "static/css/main.4e6d9806.chunk.css",
+    "static/js/main.a63facc2.chunk.js"
+  ]
+}
